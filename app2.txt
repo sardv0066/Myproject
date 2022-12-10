@@ -1,7 +1,0 @@
-git study
-<<<<<<< HEAD
-good! welcome!
-=======
-good! excellent!
-change!!
->>>>>>> branchTest
